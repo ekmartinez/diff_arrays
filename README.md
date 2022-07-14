@@ -33,3 +33,5 @@ diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]) should return an array.
 [1, "calf", 3, "piglet"], [7, "filly"] should return [1, "calf", 3, "piglet", 7, "filly"].
 
 [1, "calf", 3, "piglet"], [7, "filly"] should return an array with six items.
+
+Source: Intermediate Algorithm Scripting (freecodecamp.com)
